@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><blockly formTarget="" resourceType="JAVA" ruleDescription="Forte" ruleName="Forte" ruleSynchronous="false" ruleTimeout="" ruleType="I">
+  <metadata scale="1" scrollx="415.4" scrolly="-145" target="3-@C|J@#rZic|_n2]s7F"/>
+  <block colour="#995ba5" id="Anb:u5+^,0vLkL9QIqn5" origintype="procedures_defreturn" output="false" tooltip="Cria uma função que possui um valor de retorno." type="procedures_defreturn" x="-350" y="130">
+    <field name="NAME">Executar</field>
+    <comment h="80" pinned="false" w="160">Forte</comment>
+  </block>
+  <block colour="#fca03b" id="w?`H!3mVpLNTP0Gf$sM|" origintype="procedures_defreturn" output="false" tooltip="Cria uma função que possui um valor de retorno." type="procedures_defreturn" x="-337" y="188">
+    <field name="NAME">Alto</field>
+    <comment h="80" pinned="false" w="160">Descreva esta função...</comment>
+  </block>
+  <block colour="#fca03b" id="O_tvrIi;V0`5d#r7vdRV" origintype="procedures_defreturn" output="false" tooltip="Cria uma função que possui um valor de retorno." type="procedures_defreturn" x="-292" y="203">
+    <field name="NAME">Lindo</field>
+    <comment h="80" pinned="false" w="160">Descreva esta função...</comment>
+  </block>
+  <block colour="#fca03b" id="3-@C|J@#rZic|_n2]s7F" origintype="procedures_defreturn" output="false" tooltip="Cria uma função que possui um valor de retorno." type="procedures_defreturn" x="-277" y="218">
+    <field name="NAME">Rico</field>
+    <comment h="80" pinned="false" w="160">Descreva esta função...</comment>
+  </block>
+</blockly>

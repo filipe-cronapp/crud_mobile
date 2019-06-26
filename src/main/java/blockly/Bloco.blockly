@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><blockly formTarget="" resourceType="JAVA" ruleDescription="Bloco" ruleName="Bloco" ruleSynchronous="false" ruleTimeout="" ruleType="I">
+  <metadata scale="1" scrollx="399.4" scrolly="-207.5" target="Sotj%.s:JjN-DG}2:{Pl"/>
+  <block colour="#995ba5" id="Anb:u5+^,0vLkL9QIqn5" origintype="procedures_defreturn" output="false" tooltip="Cria uma função que possui um valor de retorno." type="procedures_defreturn" x="-350" y="130">
+    <field name="NAME">Executar</field>
+    <comment h="80" pinned="false" w="160">Bloco</comment>
+  </block>
+  <block colour="#fca03b" id="4,7t%]|LQ1!-pl4kKAhy" origintype="procedures_defreturn" output="false" tooltip="Cria uma função que possui um valor de retorno." type="procedures_defreturn" x="-292" y="218">
+    <field name="NAME">Gostoso</field>
+    <comment h="80" pinned="false" w="160">Descreva esta função...</comment>
+  </block>
+  <block colour="#fca03b" id="Sotj%.s:JjN-DG}2:{Pl" origintype="procedures_defreturn" output="false" tooltip="Cria uma função que possui um valor de retorno." type="procedures_defreturn" x="-262" y="278">
+    <field name="NAME">Maravilhoso</field>
+    <comment h="80" pinned="false" w="160">Descreva esta função...</comment>
+  </block>
+</blockly>
